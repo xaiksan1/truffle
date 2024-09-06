@@ -28,7 +28,7 @@
     "@truffle/require": "^2.1.21",
     "@truffle/resolver": "^9.0.31",
     "glob": "^7.1.6",
-    "inquirer": "8.2.4"
+    "inquirer": "9.0.0"
   },
   "devDependencies": {
     "@types/inquirer": "9.0.1",
